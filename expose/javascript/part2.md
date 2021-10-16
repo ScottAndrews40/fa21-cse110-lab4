@@ -18,7 +18,7 @@
 
 #10 The length of the array prices will be printed to console because let has function scope.
 
-#11 the empty array iscounted will be returned because const does not allow for reassignment.
+#11 the array discounted is returned
 
 #12 A) student.name
     B) student['Grad Year]
@@ -46,3 +46,5 @@
 == converts both values to the same type before comparison
 === compares the type and value of the variables or literals
 
+#17 
+The new modified array thats returned is [2,4,6]
