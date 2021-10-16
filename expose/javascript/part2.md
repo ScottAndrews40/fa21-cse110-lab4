@@ -48,3 +48,11 @@
 
 #17 
 The new modified array thats returned is [2,4,6]
+
+#19
+The function will print 
+1 
+2 
+3 
+4 
+setTimeout() executes after the delay
